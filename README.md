@@ -3,7 +3,7 @@
 Related to https://github.com/webpack/webpack/issues/7499
 
 ```
-npm
+npm install
 npm run compile
 ```
 
